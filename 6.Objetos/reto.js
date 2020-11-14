@@ -8,7 +8,7 @@ function auto(marca, modelo, annio) {
 }
 
 var autos = [];
-var numeroTotalAutos = 2;
+var numeroTotalAutos = 30;
 
 for (let i = 0; i < numeroTotalAutos; i++){
     var marca = prompt("Ingresa la marca del vehículo");
